@@ -3,6 +3,8 @@
 Independent x402 settlement observatory on Base, run by one person. The instrument is a deliberately unfiltered micro-USDC ledger (66M+ rows, every transfer between $0.0005 and $5 at ingest, attribution downstream), an endpoint catalog (79K+ entries), and an open-source endpoint validator. Numbers are published with methodology and reproduce from queries; corrections are published too.
 
 - Live decomposition: https://verify.smartflowproai.com/decomposed
+- Methodology, page by page: https://verify.smartflowproai.com/methodology/
+- Evidence index (claims -> checkable artifacts): [EVIDENCE.md](EVIDENCE.md)
 - Weekly Intel: https://smartflowproai.substack.com
 - Contact: info@smartflowproai.com
 
